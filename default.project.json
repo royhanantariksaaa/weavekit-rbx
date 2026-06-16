@@ -1,0 +1,13 @@
+{
+  "name": "WeaveKit",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Libraries": {
+        "WeaveKit": {
+          "$path": "."
+        }
+      }
+    }
+  }
+}
